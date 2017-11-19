@@ -1,19 +1,8 @@
 const magik = magikcraft.io;
 
 function feedme() {
-	magik.satio();
-    magik.satio();
-    magik.satio();
-    magik.satio();
-    magik.satio();
-    magik.satio();
-    magik.satio();
-    magik.satio();
-    magik.satio();
-    magik.satio();
-    magik.satio();
-    magik.satio();
-    magik.satio();
-    magik.satio();
-    
+    for (var i = 0; i < 99; i++){
+    	magik.satio();
+    }
+   
 }
