@@ -1,7 +1,7 @@
 const magik = magikcraft.io;
 
 function feedme() {
-    for (var i = 0; i < 99; i++){
+    for (var i = 0; i < 64; i++){
     	magik.satio();
     }
    
