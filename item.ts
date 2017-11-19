@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
 function item() {
-    magik.declaro('apple');
+    magik.declaro('elytra');
 }
